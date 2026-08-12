@@ -5,14 +5,12 @@
 
 ***
 
+<a href="https://github.com/pardnchiu/Agenvoy"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
+
 ### [Agenvoy](https://github.com/pardnchiu/Agenvoy)
-> A personal AI agent that writes its own tools and self-schedules tasks via MCP.
 
-***
-
-<a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
-- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — (module) Min-heap cron scheduler with dependency chains and panic recovery
-- **[go-jwt](https://github.com/pardnchiu/go-jwt)** — (module) JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding
+Make AI actually work for you<br>
+A personal AI harness that writes and repairs its own tools, and lets Claude Code and Codex build and share them via MCP. 
 
 ***
 
@@ -35,16 +33,18 @@
 
 <details open>
 
-<summary>Go/Module (9)</summary>
+<summary>Go/Module (11)</summary>
 
 - **[go-llm-router](https://github.com/pardnchiu/go-llm-router)** — Unified routing across 12+ LLM providers with normalized token usage
 - **[go-sqlkit](https://github.com/pardnchiu/go-sqlkit)** — Unified SQL toolkit for MySQL/MariaDB/SQLite with read-write splitting
 - **[go-browser](https://github.com/pardnchiu/go-browser)** — CDP browser automation reusing real sessions with stealth anti-detection
+- **[go-bot](https://github.com/pardnchiu/go-bot)** — Library for Telegram/Discord/LINE bots with native UI and Gemini TTS
 - **[go-pkg](https://github.com/pardnchiu/go-pkg)** — Personal Go toolkit: HTTP, sandbox isolation, document parsing
 - **[ToriiDB](https://github.com/pardnchiu/ToriiDB)** — Embedded DB unifying key-value, JSON query, and vector search
 - **[go-queue](https://github.com/pardnchiu/go-queue)** — Worker pool with five-level priority heap and anti-starvation promotion
-- **[go-bot](https://github.com/pardnchiu/go-bot)** — Library for Telegram/Discord/LINE bots with native UI and Gemini TTS
 - **[go-ip-sentry](https://github.com/pardnchiu/go-ip-sentry)** — Redis-backed IP risk scoring with progressive escalating bans
+- **[go-scheduler](https://github.com/pardnchiu/go-scheduler)** — Min-heap cron scheduler with dependency chains and panic recovery <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
+- **[go-jwt](https://github.com/pardnchiu/go-jwt)** — JWT auth with Redis lifecycle, ECDSA, and device-fingerprint binding <a href="https://github.com/avelino/awesome-go"><img src="https://awesome.re/mentioned-badge.svg" height="20"></a>
 - **[go-redis-fallback](https://github.com/pardnchiu/go-redis-fallback)** — Redis client with three-tier memory/Redis/file fallback and auto-resync
 
 </details>

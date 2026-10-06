@@ -1,4 +1,4 @@
-Last updated: 2026-10-06
+Last updated: 2026-10-07
 
 # 邱敬幃 Pardn Chiu
 
@@ -32,7 +32,7 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 - **[PodRun](https://podrun.pardn.io)** — DEPLOY TO REMOTE PODMAN AND K3S LIKE LOCAL DOCKER COMPOSE
 - **[go-rest-client](https://go-rest-client.pardn.io)** — RUN YOUR .HTTP FILES RIGHT IN THE TERMINAL
 - **[go-web-monitor](https://go-web-monitor.pardn.io)** — KEEP EVERY SITE IN SIGHT, RIGHT FROM YOUR TERMINAL
-- **[go-rss-reader](https://github.com/pardnchiu/go-rss-reader)** — TUI RSS aggregator with reader-mode extraction and offline store
+- **[go-rss-reader](https://go-rss-reader.pardn.io)** — READ THE NEWS, NOT THE NOISE, RIGHT IN YOUR TERMINAL
 - **[go-image-server](https://go-image-server.pardn.io)** — RESIZE ONCE, CACHE EVERYWHERE
 
 </details>
@@ -61,9 +61,9 @@ Self-hosted AI agent harness in a single Go binary — writes, sandbox-tests and
 
 <summary>Node.js (3)</summary>
 
-- **[node-image-server](https://github.com/pardnio/node-image-server)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
-- **[node-jwt-auth](https://github.com/pardnio/node-jwt-auth)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
-- **[node-mysql-pool](https://github.com/pardnio/node-mysql-pool)** — MySQL pool with read/write split and a fluent query builder
+- **[node-image-server](https://node-image-server.pardn.io)** — Multi-tier image cache (browser / Cloudflare Worker / Nginx / local) with WebP/AVIF conversion
+- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — Dual-token JWT auth with device fingerprinting, ES256, and Redis revocation
+- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — MySQL pool with read/write split and a fluent query builder
 
 </details>
 

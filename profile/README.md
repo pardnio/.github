@@ -1,4 +1,4 @@
-Last updated: 2026-10-07
+Last updated: 2026-10-19
 
 # 邱敬幃 Pardn Chiu
 
@@ -86,11 +86,11 @@ Self-hosted 24/7 personal AI agent that runs on your own machine — memory, sch
 
 <summary>Framework/Library (5)</summary>
 
-- **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/quickui" height="20">
-- **[NanoMD](https://nanomd.pardn.io)** — LIGHTWEIGHT MARKDOWN EDITOR IN PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanomd" height="20">
-- **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/nanojson" height="20">
-- (Archived) **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/flexplyr" height="20">
-- (Archived) **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD <img src="https://img.shields.io/jsdelivr/npm/hm/@pardnchiu/renderjs" height="20">
+- **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP
+- **[NanoMD](https://nanomd.pardn.io)** — LIGHTWEIGHT MARKDOWN EDITOR IN PURE JAVASCRIPT
+- **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT
+- (Archived) **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO
+- (Archived) **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD
 
 </details>
 

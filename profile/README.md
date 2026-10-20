@@ -1,4 +1,4 @@
-Last updated: 2026-10-19
+Last updated: 2026-10-21
 
 # 邱敬幃 Pardn Chiu
 
@@ -6,9 +6,9 @@ Last updated: 2026-10-19
 > Taiwan · Infrastructure Engineering<br>
 > Started in iOS, expert in web frontend and backend, now focused on infrastructure.
 >
-> AI is a tool; your own expertise is what counts.<br>
-> Don't use AI to design your architecture.<br>
-> Use it to catch bugs and sharpen algorithms — that's what it's actually good at.
+> My GitHub is all infrastructure and foundational components.<br>
+> Core functionality first — less bloat, fewer gimmicks.<br>
+> If you're a developer, every tool here is yours to use.
 
 ***
 
@@ -87,7 +87,7 @@ Self-hosted 24/7 personal AI agent that runs on your own machine — memory, sch
 <summary>Framework/Library (5)</summary>
 
 - **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP
-- **[NanoMD](https://nanomd.pardn.io)** — LIGHTWEIGHT MARKDOWN EDITOR IN PURE JAVASCRIPT
+- **[NanoMD](https://nanomd.pardn.io)** — FAST MARKDOWN TO AST AND HTML IN ONE PARSER
 - **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT
 - (Archived) **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO
 - (Archived) **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD

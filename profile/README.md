@@ -17,7 +17,7 @@ Last updated: 2026-10-21
 ### [Agenvoy](https://agenvoy.com/)
 
 Make AI actually work for you<br>
-Self-hosted 24/7 personal AI agent that runs on your own machine — memory, schedules, tools and credentials stay local. Single Go binary with MCP.
+A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama
 
 ***
 

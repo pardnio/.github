@@ -12,9 +12,9 @@ Last updated: 2026-10-21
 
 ***
 
-<a href="https://github.com/agenvoy/Agenvoy"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
+<a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
 
-### [Agenvoy](https://github.com/agenvoy/Agenvoy)
+### [Agenvoy](https://agenvoy.com/)
 
 Make AI actually work for you<br>
 Self-hosted 24/7 personal AI agent that runs on your own machine — memory, schedules, tools and credentials stay local. Single Go binary with MCP.

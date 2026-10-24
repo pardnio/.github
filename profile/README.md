@@ -13,7 +13,7 @@ Last updated: 2026-10-24
 **Project notes**
 
 1. Test files and SKILL repos (including Python scripts) are all LLM-generated; I only review their input/output.
-2. pardnio stores archived repos, pardnchiu maintains modules and libraries, and agenvoy ships production agents.
+2. pardnio stores archived repos, pardnchiu maintains modules and libraries, and agenvoy hosts officially released agent projects.
 
 ***
 

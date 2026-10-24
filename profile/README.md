@@ -13,9 +13,9 @@ Last updated: 2026-10-24
 **Project notes**
 
 1. Test files and SKILL repos (including Python scripts) are all LLM-generated; I only review their input/output.
-2. pardnio stores archived repos, pardnchiu maintains modules and libraries, and agenvoy hosts officially released agent projects.
+2. pardnio stores archived repos, and pardnchiu maintains modules and libraries.
 
-***
+---
 
 <a href="https://agenvoy.com/"><img src="https://avatars.githubusercontent.com/u/260084267?s=200&v=4" align="left" width=96 height=96></a>
 
@@ -24,19 +24,20 @@ Last updated: 2026-10-24
 Make AI actually work for you<br>
 A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama
 
-***
+---
 
 ### Backend
 
 <details open>
 
-<summary>Go/AI Agent (5)</summary>
+<summary>Go/AI Agent (6)</summary>
 
 - **[go-llm-router](https://go-llm-router.pardn.io)** — ONE AGENT INTERFACE FOR EVERY LLM PROVIDER
 - **[go-browser](https://go-browser.pardn.io)** — EXTRACT WEB CONTENT VIA CHROME — MARKDOWN OR HTML, READY FOR AGENTS
 - **[go-bot](https://go-bot.pardn.io)** — BUILD BOTS THAT FIT EVERY CHAT PLATFORM
 - **[ToriiDB](https://toriidb.pardn.io)** — EMBEDDED JSON KV STORAGE WITH A SHARED SOCKET DAEMON AND VECTOR SEARCH
 - **[KuraDB](https://kuradb.pardn.io)** — DROP FILES IN, LET YOUR AGENT SEARCH THEM OUT
+- **[cim-prototype](https://github.com/pardnchiu/cim-prototype)** — LLM with a Cognitive Imperfect Memory system that simulates human selective memory for long multi-turn conversations
 
 </details>
 
@@ -64,14 +65,13 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-
 <details open>
 
 <summary>Node.js (3)</summary>
 
-- (Archived) **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE (earlier Node.js implementation, continued in Go as go-image-server)
-- (Archived) **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE (earlier Node.js implementation, continued in Go as go-jwt)
-- (Archived) **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
+- **[node-image-server](https://node-image-server.pardn.io)** — RESIZE ONCE, SERVE FROM CACHE EVERYWHERE (earlier Node.js implementation, continued in Go as go-image-server)
+- **[node-jwt-auth](https://node-jwt-auth.pardn.io)** — DUAL-TOKEN JWT AUTH BOUND TO EVERY DEVICE (earlier Node.js implementation, continued in Go as go-jwt)
+- **[node-mysql-pool](https://node-mysql-pool.pardn.io)** — CHAIN YOUR MYSQL QUERIES ACROSS READ AND WRITE POOLS
 
 </details>
 
@@ -79,8 +79,8 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>PHP (6)</summary>
 
-- (Archived) **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
-- (Archived) **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience (earlier PHP implementation, continued in Node.js as node-mysql-pool)
+- **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
+- **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience (earlier PHP implementation, continued in Node.js as node-mysql-pool)
 - [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
@@ -93,7 +93,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 </details>
 
-***
+---
 
 ### Frontend
 
@@ -104,8 +104,8 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[QuickUI](https://quickui.pardn.io)** — A ZERO-DEPENDENCY VIRTUAL DOM FRAMEWORK THAT RUNS WITHOUT A BUILD STEP
 - **[NanoMD](https://nanomd.pardn.io)** — FAST MARKDOWN TO AST AND HTML IN ONE PARSER
 - **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT
-- (Archived) **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO
-- (Archived) **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD
+- **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO
+- **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD
 - [pdf2image](https://pdf2image.pardn.io)
 
 </details>
@@ -114,8 +114,8 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>Demo/Web (7)</summary>
 
-- (Archived) **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
-- (Archived) **[WebUI](https://github.com/pardnio/website-builder)** — Visual website builder with modular prebuilt templates (discontinued demo)
+- **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
+- **[WebUI](https://github.com/pardnio/website-builder)** — Visual website builder with modular prebuilt templates (discontinued demo)
 - [AdminUI](https://github.com/pardnio/AdminUI), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
@@ -124,14 +124,14 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>iOS (4)</summary>
 
-- (Archived) **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
-- (Archived) **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
-- (Archived) **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
-- (Archived) **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit finance tracker with monthly views and Font Awesome
+- **[ExSwift](https://github.com/pardnio/ExSwift)** — Declarative UIKit extension with fluent chaining syntax
+- **[demo-swiftui](https://github.com/pardnio/demo-swiftui)** — SwiftUI components recreating Pinterest-style animated UI
+- **[demo-swift-firebase-messaging](https://github.com/pardnio/demo-swift-firebase-messaging)** — Firebase chat app with QR friend-adding, code-only UIKit
+- **[demo-swift-moneybook](https://github.com/pardnio/demo-swift-moneybook)** — UIKit finance tracker with monthly views and Font Awesome
 
 </details>
 
-***
+---
 
 ### Product
 
@@ -142,8 +142,8 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[JOBALL (Web)](https://joball.tw)** — Freelance expert marketplace (Taiwan) · **peak 10K users / 340K monthly views**
 - **[C2hat (Chrome Extension)](https://chromewebstore.google.com/detail/c2hat-cross-domain-chat/chngimmfgmkpninihhljpidnieocmhdn)** — E2EE cross-domain chat extension with no server-side message storage
 - **[NanoMD (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=pardnchiu.nanomd)** — Markdown editor with split-screen preview and Mermaid support
-- (Discontinued) **[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** ・ 
-**[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** ・ 
-**[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
-  
+- (Discontinued) **[NanoMD (macOS)](https://apps.apple.com/us/app/nanomd-markdown-%E7%B7%A8%E8%BC%AF%E5%99%A8/id6740427920)** ・
+  **[Ninlog (macOS)](https://apps.apple.com/tw/app/ninlog-%E9%8D%B5%E7%9B%A4%E6%BB%91%E9%BC%A0%E8%BF%BD%E8%B9%A4/id6741706238)** ・
+  **[JOBALL (iOS)](https://apps.apple.com/us/app/joball-接洽/id1272878907)**
+
 </details>

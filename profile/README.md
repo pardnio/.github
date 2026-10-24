@@ -13,6 +13,7 @@ Last updated: 2026-10-24
 **Project notes**
 
 1. Test files and SKILL repos (including Python scripts) are all LLM-generated; I only review their input/output.
+2. pardnio stores archived repos, pardnchiu maintains modules and libraries, and agenvoy ships production agents.
 
 ***
 
@@ -115,11 +116,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - (Archived) **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - (Archived) **[WebUI](https://github.com/pardnio/website-builder)** — Visual website builder with modular prebuilt templates (discontinued demo)
-- [AdminUI](https://github.com/pardnio/AdminUI)
-- [DeskUI](https://pardnio.github.io/DeskUI/)
-- [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)
-- [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)
-- [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- [AdminUI](https://github.com/pardnio/AdminUI), [DeskUI](https://pardnio.github.io/DeskUI/), [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/), [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/), [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 

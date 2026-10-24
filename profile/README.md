@@ -12,7 +12,7 @@ Last updated: 2026-10-24
 
 **Project notes**
 
-1. Test files and SKILL repos (include py scripts) are all LLM-generated; I only review their input/output.
+1. Test files and SKILL repos (including Python scripts) are all LLM-generated; I only review their input/output.
 
 ***
 
@@ -59,7 +59,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[go-scheduler](https://go-scheduler.pardn.io)** — SCHEDULE TASKS WITH DEPENDENCIES, TIMEOUTS, AND CRON EXPRESSIONS [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-jwt](https://go-jwt.pardn.io)** — ECDSA JWT WITH REDIS LIFECYCLE AND DEVICE BINDING [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 - **[go-redis-fallback](https://go-redis-fallback.pardn.io)** — KEEP READING WHEN REDIS GOES DOWN (KV local storage implementation before ToriiDB)
-- (Archived) [go-logger](https://github.com/pardnio/go-logger)
+- [go-logger](https://github.com/pardnio/go-logger)
 
 </details>
 
@@ -80,10 +80,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - (Archived) **[php-async](https://github.com/pardnio/php-async)** — ReactPHP async task runner with topological dependency sorting
 - (Archived) **[php-mysql-cli](https://github.com/pardnio/php-mysql-cli)** — Chainable MySQL client with read-write routing and retry resilience (earlier PHP implementation, continued in Node.js as node-mysql-pool)
-- (Archived) [php-redis-cli](https://github.com/pardnio/php-redis-cli)
-- (Archived) [php-cache-fallback](https://github.com/pardnio/php-cache-fallback)
-- (Archived) [php-session-fallback](https://github.com/pardnio/php-session-fallback)
-- (Archived) [php-mailer](https://github.com/pardnio/php-mailer)
+- [php-redis-cli](https://github.com/pardnio/php-redis-cli), [php-cache-fallback](https://github.com/pardnio/php-cache-fallback), [php-session-fallback](https://github.com/pardnio/php-session-fallback), [php-mailer](https://github.com/pardnio/php-mailer)
 
 </details>
 
@@ -91,7 +88,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 <summary>Infra/Shell (1)</summary>
 
-- (Archived) [pdpve](https://github.com/pardnio/pdpve)
+- [pdpve](https://github.com/pardnio/pdpve)
 
 </details>
 
@@ -108,7 +105,7 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 - **[NanoJSON](https://nanojson.pardn.io)** — A LIGHTWEIGHT VISUAL JSON EDITOR BUILT WITH PURE JAVASCRIPT
 - (Archived) **[FlexPlyr](https://flexplyr.pardn.io)** — ONE PLAYER API FOR HTML5, YOUTUBE AND VIMEO
 - (Archived) **[RenderJS](https://renderjs.pardn.io)** — EXTEND NATIVE JS PROTOTYPES, RENDER WITHOUT THE OVERHEAD
-- (Archived) [pdf2image](https://pdf2image.pardn.io)
+- [pdf2image](https://pdf2image.pardn.io)
 
 </details>
 
@@ -118,11 +115,11 @@ A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ol
 
 - (Archived) **[demo-web](https://demo-web.pardn.io)** — 38 HANDCRAFTED FRONTEND PAGES, ZERO BUILD STEP
 - (Archived) **[WebUI](https://github.com/pardnio/website-builder)** — Visual website builder with modular prebuilt templates (discontinued demo)
-- (Archived) [AdminUI](https://github.com/pardnio/AdminUI)
-- (Archived) [DeskUI](https://pardnio.github.io/DeskUI/)
-- (Archived) [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)
-- (Archived) [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)
-- (Archived) [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
+- [AdminUI](https://github.com/pardnio/AdminUI)
+- [DeskUI](https://pardnio.github.io/DeskUI/)
+- [css-pokemon-quest](https://pardnio.github.io/css-pokemon-quest/)
+- [SkilliconsPicker](https://pardnio.github.io/SkilliconsPicker/)
+- [web-admin-20220917](https://pardnio.github.io/web-admin-20220917/)
 
 </details>
 
